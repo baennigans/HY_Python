@@ -838,3 +838,17 @@ vibrant-ink/string = ('#477488', False, False)
 vibrant-ink/number = ('#477488', False, False)
 vibrant-ink/instance = ('#357a8f', False, False)
 
+[run]
+history = 20
+default/interpreter/current = True
+default/interpreter/systerm = False
+interact = False
+post_mortem = False
+clear_namespace = False
+console_namespace = False
+default/wdir/use_script_directory = True
+default/wdir/use_cwd_directory = False
+default/wdir/use_fixed_directory = False
+open_on_firstrun = False
+open_at_least_once = False
+

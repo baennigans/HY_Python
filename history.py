@@ -24,3 +24,10 @@ runcell(0, 'C:/Users/User/.spyder-py3/10_image.py')
 runfile('C:/Users/User/.spyder-py3/10_image.py', wdir='C:/Users/User/.spyder-py3')
 runfile('C:/Users/User/.spyder-py3/untitled10.py', wdir='C:/Users/User/.spyder-py3')
 runfile('C:/Users/User/.spyder-py3/10_image.py', wdir='C:/Users/User/.spyder-py3')
+
+## ---(Fri Jan 12 09:21:04 2024)---
+runcell(0, 'C:/Users/User/.spyder-py3/untitled0.py')
+runfile('C:/Users/User/.spyder-py3/PIL.py', wdir='C:/Users/User/.spyder-py3')
+runcell(0, 'C:/Users/User/.spyder-py3/PIL.py')
+runfile('C:/Users/User/.spyder-py3/PIL.py', wdir='C:/Users/User/.spyder-py3')
+runfile('C:/Users/User/.spyder-py3/untitled5.py', wdir='C:/Users/User/.spyder-py3')
